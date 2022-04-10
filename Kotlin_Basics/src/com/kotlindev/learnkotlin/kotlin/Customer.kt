@@ -24,7 +24,7 @@ class Customer (val name: String, val address: String, var age: Int) {
         println("secondary constructor")
     }
 
-    // NOTE: if you have a secondary constructor and you still want to perform logic for the main constructor
+    // NOTE: if you have a secondary constructor and you still want to perform logic for the com.kotlindev.learnkotlin.kotlin.com.kotlindev.learnkotlin.kotlin.main constructor
     // you do that inside init{}
     init {
         println("init block")

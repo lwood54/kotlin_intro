@@ -1,3 +1,7 @@
+package com.kotlindev.learnkotlin.kotlin
+
+import KotlinPerson
+
 fun main(args: Array<String>) {
 //    var x: Int = 0
 //    while( x < 10) {

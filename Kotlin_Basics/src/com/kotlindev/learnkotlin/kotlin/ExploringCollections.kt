@@ -1,3 +1,5 @@
+package com.kotlindev.learnkotlin.kotlin
+
 fun main(args: Array<String>) {
 
     // create IMMUTABLE list
